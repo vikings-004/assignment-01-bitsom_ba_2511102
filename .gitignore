@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+__MACOSX/
+._*
+
+# Python / Jupyter
+.ipynb_checkpoints/
+.jupyter/
+.virtual_documents/
+*.db
+
+# VS Code
+.vscode/
